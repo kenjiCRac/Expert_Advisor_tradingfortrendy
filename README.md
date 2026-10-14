@@ -1,0 +1,1 @@
+# Expert_Advisor_tradingfortrendy
