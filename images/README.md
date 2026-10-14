@@ -4,4 +4,5 @@ Store repository screenshots here, such as Strategy Tester summaries, equity cur
 
 Backtest from 2026-06-01 to 2026-08-07
 
+Backtest result summary: backtests/README.md
 
