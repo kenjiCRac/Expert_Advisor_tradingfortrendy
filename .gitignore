@@ -1,0 +1,24 @@
+# MetaEditor / compiled MQL5 artifacts
+*.ex5
+*.ex4
+
+# Local tester output and temporary logs
+*.log
+*.tmp
+*.cache
+Tester/
+Profiles/
+Logs/
+
+# Operating system / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local credentials and private configuration
+.env
+*.key
+*.pem
+credentials.*
+secrets.*
