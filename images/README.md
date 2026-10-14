@@ -2,12 +2,7 @@
 
 Store repository screenshots here, such as Strategy Tester summaries, equity curves, drawdown charts, and chart examples.
 
-Suggested filenames:
-- backtest-results.png
-- equity-curve.png
-- drawdown.png
-- trending-market-example.png
-- sideways-market-example.png
+Backtest from 2026-06-01 to 2026-08-07
 
 Only label screenshots with their actual test settings and dates. A screenshot is evidence of one historical test, not a promise of future performance.
 
